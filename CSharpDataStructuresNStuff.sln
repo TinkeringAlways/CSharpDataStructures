@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryFirstUse", "CSharpDataStructuresNStuff\DictionaryFirstUse.csproj", "{65E63B39-7600-4E83-A870-96914B8D8319}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackingUpPoppingItOut_HAHA", "StackingUpPoppingItOut_HAHA\StackingUpPoppingItOut_HAHA.csproj", "{9A081540-5A50-443C-9ACD-A67EE25A3676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueuesTheBasics", "QueuesTheBasics\QueuesTheBasics.csproj", "{995218E0-BAA3-44F2-8FB5-4BC836A85073}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{65E63B39-7600-4E83-A870-96914B8D8319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65E63B39-7600-4E83-A870-96914B8D8319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65E63B39-7600-4E83-A870-96914B8D8319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A081540-5A50-443C-9ACD-A67EE25A3676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A081540-5A50-443C-9ACD-A67EE25A3676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A081540-5A50-443C-9ACD-A67EE25A3676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A081540-5A50-443C-9ACD-A67EE25A3676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995218E0-BAA3-44F2-8FB5-4BC836A85073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995218E0-BAA3-44F2-8FB5-4BC836A85073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995218E0-BAA3-44F2-8FB5-4BC836A85073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995218E0-BAA3-44F2-8FB5-4BC836A85073}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
